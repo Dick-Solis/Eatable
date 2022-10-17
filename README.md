@@ -14,4 +14,9 @@ http://localhost:3000/
 
 ## Descripción
 
-Este proyecto te permite crear un nuevo 
+📌 En este proyecto vamos a poder visualizar todos los productos capturado de la API Rest.
+  
+📌 Vamos a poder crear un nuevo producto.
+📌 Vamos a poder visualizar al producto por el ID de este mismo.
+📌 Vamos a actulizar al producto, capturando el ID y enviandole los nuevos parametros.
+📌 Vamos a poder eliminar al producto, capturando el ID.
